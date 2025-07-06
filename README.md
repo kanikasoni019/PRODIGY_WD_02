@@ -15,5 +15,7 @@ A simple stopwatch web app built with **HTML**, **CSS**, and **JavaScript**. The
  📂 Project Files
 
 [index.html](index.html)
+
 [style.css](style.css)
+
 [script.js](script.js)
